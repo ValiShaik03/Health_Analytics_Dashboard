@@ -23,4 +23,4 @@ This project visualizes healthcare performance metrics using **Power BI** connec
 - Female patients slightly outnumber males.
 
 ---
-📬 **Created by:** [Your Name](https://www.linkedin.com/in/yourprofile)
+📬 **Created by:** [Your Name](https://www.linkedin.com/in/mahaboobvalishaik/)
