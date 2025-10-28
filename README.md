@@ -15,7 +15,7 @@ This project visualizes healthcare performance metrics using **Power BI** connec
 - Data Modeling
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/ValiShaik03/Health_Analytics_Dashboard/blob/7ad2e48e34bdcb8597ec0c33980b3049341b408e/Dashboard_Image.png)
 
 ## 📈 Insights
 - Dr. Adams generated the highest revenue.
