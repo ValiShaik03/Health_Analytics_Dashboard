@@ -1,4 +1,4 @@
-# 🩺 Healthcare Analytics Dashboard (Power BI)
+# 🩺 Healthcare Analytics Dashboard (MYSQL + Power BI)
 
 This project visualizes healthcare performance metrics using **Power BI** connected to a **MySQL database**.
 
